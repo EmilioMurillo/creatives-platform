@@ -1,24 +1,22 @@
-# README
+# PlatForm
+This is a Ruby on Rails app that would allow different artist to collaborate and explore each others ideas. Ultimitley this platform would a private gallery for a small group of friends.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Instructions to run
+  ```
+    cd blog
+  ```
+  ```
+  run $ bin/rails server
+  ```
 
-Things you may want to cover:
+**Link to project:**
 
-* Ruby version
+## How It's Made:
 
-* System dependencies
+**Tech used:** HTML, CSS, JavaScript, Ruby on Rails
 
-* Configuration
+I wanted to get familiar with Ruby on Rails and the MVC framework. I read the docs and was able to understand how a simple CRUD app works. Most of what comes with the docs is very simple and boring. I had a tough time understanding how everything really connects and works. At the end of the day I got things to work perfectly.
 
-* Database creation
+## Optimizations
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+After being able to make things work finally. I wanted to add a whole welcome page that would take me to the "articles"(articles would be 'creations' or 'post')page. The initial page was the design I was going for which would be the minimalistic feel. Then figure out a way to be able to add video and images to CRUD methods.

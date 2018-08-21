@@ -1,0 +1,43 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+header.main-hero{
+  float: left;
+  width: 100%;
+  min-height: 100vh;
+}
+header.main-hero h1{
+  font-size: 100px;
+  width: 50%;
+  margin: 270px auto;
+  text-align: center;
+}
+header.main-hero h1:hover{
+  background-color: black;
+  color: white;
+  cursor: cell;
+}
+section.creatives-link{
+  width: 100%;
+  float: left;
+  min-height: 100vh;
+}
+a:-webkit-any-link{
+  text-decoration: none;
+  color: black;
+}
+a:-webkit-any-link:hover{
+  color: white;
+}
+span{
+  width: 20%;
+  text-align: center;
+  margin: 270px 39.333%;
+  display: block;
+  float: left;
+  font-size: 45px;
+}
+span:hover{
+  background-color: black;
+  color: white;
+}

@@ -3,9 +3,6 @@ This is a Ruby on Rails app that would allow different artist to collaborate and
 
 # Instructions to run
   ```
-    cd blog
-  ```
-  ```
   run $ bin/rails server
   ```
 

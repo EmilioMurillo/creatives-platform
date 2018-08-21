@@ -6,7 +6,7 @@ This is a Ruby on Rails app that would allow different artist to collaborate and
   run $ bin/rails server
   ```
 
-**Link to project:**
+**Link to project:** https://emiliomurillo.github.io/creatives-platform/.
 
 ## How It's Made:
 

@@ -14,4 +14,4 @@ I wanted to get familiar with Ruby on Rails and the MVC framework. I read the do
 
 ## Optimizations
 
-After being able to make things work finally. I wanted to add a whole welcome page that would take me to the "articles"(articles would be 'creations' or 'post')page. The initial page was the design I was going for which would be the minimalistic feel. Then figure out a way to be able to add video and images to CRUD methods.
+After being able to make things work finally. I wanted to add a whole welcome page that would take me to the "articles"(articles would be 'creations' or 'post')page. The initial page was the design I was going for which would be the minimalistic feel. Then figure out a way to be able to add video and images to CRUD methods. Yes.
